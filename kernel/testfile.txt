@@ -1,0 +1,1 @@
+this is text file for test of getreacount syscall added in xv6
